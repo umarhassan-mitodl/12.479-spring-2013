@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ]
+  ],
+  "legacy_uid": "f3892ced-aaa3-259c-c397-651405bf9e39",
+  "instructors": {
+    "content": [
+      "11e412f1-9069-e828-e84e-8b9ef6c2a251"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1d81547b-cd4f-84af-092e-ff6b371053ed",
+    "website": "12-479-trace-element-geochemistry-spring-2013"
+  },
+  "course_title": "Trace-Element Geochemistry",
+  "course_description": "The emphasis of this course is to use Trace Element Geochemistry to understand the origin and evolution of igneous rocks. The approach is to discuss the parameters that control partitioning of trace elements between phases and to develop models for the partitioning of trace elements between phases in igneous systems, especially between minerals and melt. Subsequently, published papers that are examples of utilizing Trace Element Geochemistry are read and discussed.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.479",
+  "course_image_thumbnail": {
+    "content": "575fab95-2739-9245-2be9-1ea7b9a8a5e6",
+    "website": "12-479-trace-element-geochemistry-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "8c4ad1dc-8bf7-4347-8bdc-d7d4c3f69e34",
+  "site_short_id": "12.479-spring-2013",
+  "site_url_path": "courses/12-479-trace-element-geochemistry-spring-2013",
+  "title": "Course Metadata"
+}

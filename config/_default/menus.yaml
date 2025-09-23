@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 9dd5c41a-147f-dacb-ce4f-6d4e096ec0b4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 5dc740e3-d4ac-e89d-6a43-6b9442708794
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 47554342-cec0-4b11-1812-f79a2c15727d
+  name: Seminars and Discussions
+  pageRef: /pages/seminars-discussions
+  weight: 30
