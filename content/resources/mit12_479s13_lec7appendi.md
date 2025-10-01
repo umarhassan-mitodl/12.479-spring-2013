@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-479-trace-element-geochemistry-spring-2013/7b3c5dcff798e5dde2f8752942e1c824_MIT12_479S13_lec7appendi.pdf
 file_size: 81901
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
