@@ -4,8 +4,6 @@ description: This file contains information regarding seminar 3.
 file: /courses/12-479-trace-element-geochemistry-spring-2013/68c299e23380f3f6639b42bf45ce1196_MIT12_479S13_Seminar3.pdf
 file_size: 42967
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -33,7 +33,6 @@
     "website": "12-479-trace-element-geochemistry-spring-2013"
   },
   "course_title": "Trace-Element Geochemistry",
-  "hide_download": true,
   "course_description": "The emphasis of this course is to use Trace Element Geochemistry to understand the origin and evolution of igneous rocks. The approach is to discuss the parameters that control partitioning of trace elements between phases and to develop models for the partitioning of trace elements between phases in igneous systems, especially between minerals and melt. Subsequently, published papers that are examples of utilizing Trace Element Geochemistry are read and discussed.\n",
   "department_numbers": [
     "12"
@@ -44,7 +43,6 @@
     "content": "575fab95-2739-9245-2be9-1ea7b9a8a5e6",
     "website": "12-479-trace-element-geochemistry-spring-2013"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
